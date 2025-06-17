@@ -1,16 +1,45 @@
-## Hi there 👋
+# 👋 Hi, I'm Mohamed!
 
-<!--
-**Mohamed-A-Yehia/Mohamed-A-Yehia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Self-taught Front-end Developer Who Focuses on Writing Clean, Real-world, and Responsive Code.
+I Care About Accessibility, Performance, and Building Interfaces That Are Both Functional and User-friendly.
 
-Here are some ideas to get you started:
+I'm Also Curious About How Things Work Under the Hood — I Enjoy Learning New Concepts and Understanding the "Why" and "How" Behind the Scenes and Technologies I Use.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+
+## 🧰 My Skills
+
+### 💻 Technical
+- HTML5, CSS3, JavaScript, TypeScript
+- React.js, Next.js, Tailwind CSS
+
+### 🛠️ Tools & Version Control
+- Git, GitHub, Chrome DevTools, VS Code
+
+### 🤝 Soft Skills
+- Team Collaboration, Communication, Problem Solving, Attention to Detail
+
+---
+
+## 📖 Books I'm Reading
+
+- *The Art of Readable Code* – for writing clean and human-friendly code
+- *You Don’t Know JS* series:
+  - *Scope & Closures*
+  - *This & Object Prototypes*
+  - *Async & Performance*
+
+---
+
+## 🎓 Education
+
+**Bachelors in Management Information Systems**  - Egypt
+📆 2024 – 2028
+
+---
+
+## 🌍 Languages
+
+- **Arabic** — Native / Bilingual  
+- **English** — Basic
