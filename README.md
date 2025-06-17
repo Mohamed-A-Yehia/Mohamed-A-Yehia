@@ -3,7 +3,7 @@
 I'm a Self-taught Front-end Developer Who Focuses on Writing Clean, Real-world, and Responsive Code.
 I Care About Accessibility, Performance, and Building Interfaces That Are Both Functional and User-friendly.
 
-I'm Also Curious About How Things Work Under the Hood — I Enjoy Learning New Concepts and Understanding the "Why" and "How" Behind the Scenes and Technologies I Use.
+I'm Also Curious About How Things Work Under the Hood, I Enjoy Learning New Concepts and Understanding the "Why" and "How" Behind the Scenes and Technologies I Use.
 
 
 ---
@@ -24,7 +24,7 @@ I'm Also Curious About How Things Work Under the Hood — I Enjoy Learning New C
 
 ## 📖 Books I'm Reading
 
-- *The Art of Readable Code* – for writing clean and human-friendly code
+- *The Art of Readable Code* – For Writing Clean and Human-friendly Code
 - *You Don’t Know JS* series:
   - *Scope & Closures*
   - *This & Object Prototypes*
@@ -34,7 +34,7 @@ I'm Also Curious About How Things Work Under the Hood — I Enjoy Learning New C
 
 ## 🎓 Education
 
-**Bachelors in Management Information Systems**  - Egypt
+**Bachelors in Management Information Systems**  - Egypt -
 📆 2024 – 2028
 
 ---
