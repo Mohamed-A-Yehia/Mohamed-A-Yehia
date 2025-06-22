@@ -17,9 +17,6 @@ I'm Also Curious About How Things Work Under the Hood, I Enjoy Learning New Conc
 ### 🛠️ Tools & Version Control
 - Git, GitHub, Chrome DevTools, VS Code
 
-### 🤝 Soft Skills
-- Team Collaboration, Communication, Problem Solving, Attention to Detail
-
 ---
 
 ## 📖 Books I'm Reading
@@ -29,13 +26,6 @@ I'm Also Curious About How Things Work Under the Hood, I Enjoy Learning New Conc
   - *Scope & Closures*
   - *This & Object Prototypes*
   - *Async & Performance*
-
----
-
-## 🎓 Education
-
-**Bachelors in Management Information Systems**  - Egypt -
-📆 2024 – 2028
 
 ---
 
