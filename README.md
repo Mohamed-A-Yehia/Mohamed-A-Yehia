@@ -19,16 +19,6 @@ I'm Also Curious About How Things Work Under the Hood, I Enjoy Learning New Conc
 
 ---
 
-## 📖 Books I'm Reading
-
-- *The Art of Readable Code* – For Writing Clean and Human-friendly Code
-- *You Don’t Know JS* series:
-  - *Scope & Closures*
-  - *This & Object Prototypes*
-  - *Async & Performance*
-
----
-
 ## 🌍 Languages
 
 - **Arabic** — Native / Bilingual  
