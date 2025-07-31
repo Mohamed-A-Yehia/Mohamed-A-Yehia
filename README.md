@@ -12,7 +12,7 @@ I'm Also Curious About How Things Work Under the Hood, I Enjoy Learning New Conc
 
 ### 💻 Technical
 - HTML5, CSS3, JavaScript, TypeScript
-- React.js, Next.js, Tailwind CSS
+- React.js, Tailwind CSS
 
 ### 🛠️ Tools & Version Control
 - Git, GitHub, Chrome DevTools, VS Code
